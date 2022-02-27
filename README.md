@@ -6,7 +6,7 @@
 ### test6
 ## test1
 ### test2
-[hey](https://github.com/pablogonzales2009/blob/main/markdown-test#test99)
+[hey](https://github.com/pablogonzales2009/markdown-test/blob/master/README.md#test99)
 ## test3
 ### test4
 ## test5
